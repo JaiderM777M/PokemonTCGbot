@@ -1,1 +1,1 @@
-TOKEN = "MTQxMzU3ODc4Nzc2OTAyNDYzNg.GAqO6v.GGgK3S0scuCwugKvtXuv_csBdIwZFcDPP2nJTs"
+TOKEN = "Ingresa_tu_token_aqui"
