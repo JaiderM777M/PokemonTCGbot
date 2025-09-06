@@ -40,6 +40,7 @@ El inventario se guarda en un archivo `inventario.json` para que no pierdas tu c
 - **config.py** → Contiene tu token de autenticación de Discord por tanto ingresar token propio para las pruebas.
 - **requirements.txt** → Lista de dependencias necesarias para ejecutar el bot.
 - **inventario.json** → Se genera automáticamente para almacenar las cartas de cada usuario.
+> **Nota:** Se recomienda crear un entorno virtual para instalar las dependencias y evitar conflictos con otras librerías en el sistema.  
 
 ---
 
@@ -48,4 +49,5 @@ El inventario se guarda en un archivo `inventario.json` para que no pierdas tu c
 - Tener una cuenta en [Discord](https://discord.com/).
 - Crear una aplicación y bot en el [Portal de Desarrolladores de Discord](https://discord.com/developers/applications).
 - Invitar el bot a tu servidor con los permisos correspondientes.
+
 
