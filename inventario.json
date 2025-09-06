@@ -1,0 +1,127 @@
+{
+    "629859694986526720": {
+        "Común": [
+            {
+                "name": "Pineco",
+                "url": "https://assets.tcgdex.net/en/ex/ex10/66/high.png"
+            },
+            {
+                "name": "Team Rocket's Koffing",
+                "url": "https://assets.tcgdex.net/en/sv/sv10/125/high.png"
+            },
+            {
+                "name": "Goodra",
+                "url": "https://assets.tcgdex.net/en/sm/sm6/94/high.png"
+            },
+            {
+                "name": "Slugma",
+                "url": "https://assets.tcgdex.net/en/ex/ex10/73/high.png"
+            },
+            {
+                "name": "Ralts",
+                "url": "https://assets.tcgdex.net/en/pl/pl1/89/high.png"
+            }
+        ],
+        "Raro": [
+            {
+                "name": "Golbat",
+                "url": "https://assets.tcgdex.net/en/sv/sv06.5/028/high.png"
+            },
+            {
+                "name": "Finneon",
+                "url": "https://assets.tcgdex.net/en/tcgp/A1a/020/high.png"
+            }
+        ],
+        "Épico": [
+            {
+                "name": "Eelektrik",
+                "url": "https://assets.tcgdex.net/en/xy/xy5/64/high.png"
+            },
+            {
+                "name": "Scatterbug",
+                "url": "https://assets.tcgdex.net/en/xy/xy1/15/high.png"
+            }
+        ],
+        "Legendario": [
+            {
+                "name": "Regice",
+                "url": "https://assets.tcgdex.net/en/tcgp/A2/034/high.png"
+            }
+        ],
+        "Mítico": [],
+        "Rareza desconocida": [
+            {
+                "name": "Furret",
+                "url": "https://assets.tcgdex.net/en/sv/sv09/119/high.png"
+            },
+            {
+                "name": "Medicham",
+                "url": "https://assets.tcgdex.net/en/ex/ex5/42/high.png"
+            },
+            {
+                "name": "Castform Snowy Form",
+                "url": "https://assets.tcgdex.net/en/swsh/swsh6/34/high.png"
+            },
+            {
+                "name": "Durant",
+                "url": "https://assets.tcgdex.net/en/bw/bw3/83/high.png"
+            }
+        ],
+        "Rareza normal": [
+            {
+                "name": "Dhelmise",
+                "url": "https://assets.tcgdex.net/en/sm/sm11/20/high.png"
+            },
+            {
+                "name": "Tapu Bulu",
+                "url": "https://assets.tcgdex.net/en/sv/sv06.5/065/high.png"
+            },
+            {
+                "name": "Sawsbuck",
+                "url": "https://assets.tcgdex.net/en/sv/sv05/017/high.png"
+            }
+        ],
+        "Normal": [
+            {
+                "name": "Unown VSTAR",
+                "url": "https://assets.tcgdex.net/en/swsh/swsh12/199/high.png"
+            },
+            {
+                "name": "Milotic ex",
+                "url": "https://assets.tcgdex.net/en/sv/sv08/217/high.png"
+            },
+            {
+                "name": "Drampa",
+                "url": "https://assets.tcgdex.net/en/swsh/swsh1/149/high.png"
+            },
+            {
+                "name": "Tadbulb",
+                "url": "https://assets.tcgdex.net/en/sv/sv03/075/high.png"
+            },
+            {
+                "name": "Scyther",
+                "url": "https://assets.tcgdex.net/en/ecard/ecard2/57/high.png"
+            },
+            {
+                "name": "Alolan Raichu ex",
+                "url": "https://assets.tcgdex.net/en/tcgp/A3/185/high.png"
+            },
+            {
+                "name": "Hop's Choice Band",
+                "url": "https://assets.tcgdex.net/en/sv/sv09/148/high.png"
+            },
+            {
+                "name": "Alolan Exeggutor V",
+                "url": "https://assets.tcgdex.net/en/swsh/swsh10.5/071/high.png"
+            },
+            {
+                "name": "Croagunk",
+                "url": "https://assets.tcgdex.net/en/sv/sv01/130/high.png"
+            },
+            {
+                "name": "Magnemite",
+                "url": "https://assets.tcgdex.net/en/sm/sm6/34/high.png"
+            }
+        ]
+    }
+}
